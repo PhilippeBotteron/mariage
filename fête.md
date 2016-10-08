@@ -114,29 +114,29 @@
 		(20)
 
 ## Pré-fête:
-Strand
-Restaurant Novi Sad
+	Strand
+	Restaurant Novi Sad
 
 ## Musique:
-Trubaci
-Orchestre
-Playlist
+	Trubaci
+	Orchestre
+	Playlist
 
 ## Photos:
-Photographe Serbe
-Kin Flash Studio https://www.facebook.com/KinFlashStudio/ Call +381 63 580854
-Photographe Suisse
-Photo booth
-Polaroid (Tina)
+	Photographe Serbe
+	Kin Flash Studio https://www.facebook.com/KinFlashStudio/ Call +381 63 580854
+	Photographe Suisse
+	Photo booth
+	Polaroid (Tina)
 
 
 ## Hébergement et transport des invités:
 
 ###	Novi Sad:
 ####		Cher:
-			Premier Prezident Hotel http://www.premierprezidenthotel.com/ +381 21 884111
-			Hotel Park http://www.hotelparkns.com/ +381 21 4888888
-			Hotel Fortress Leopold I http://leopoldns.com/ +381 21 4887878
+		Premier Prezident Hotel http://www.premierprezidenthotel.com/ +381 21 884111
+		Hotel Park http://www.hotelparkns.com/ +381 21 4888888
+		Hotel Fortress Leopold I http://leopoldns.com/ +381 21 4887878
 ####		Bon marché:
 			
 			
@@ -149,31 +149,31 @@ Polaroid (Tina)
 			
 			
 ## Nourriture:
-Agneaux
-Cochons de lait
-Choix de bouffe végétarienne
-Quelques trucs suisses
+	Agneaux
+	Cochons de lait
+	Choix de bouffe végétarienne
+	Quelques trucs suisses
 	
 	
 ## Boissons:
-Champagne à amener nous-même
-Jus faits maison
+	Champagne à amener nous-même
+	Jus faits maison
 	
 
 ## Gâteau:
-Un truc ni moche ni mauvais
+	Un truc ni moche ni mauvais
 
 ## Animations:
-Beamer
-Sono
-Animation à préparer
-Jeux:
+	Beamer
+	Sono	
+	Animation à préparer
+	Jeux:
 	voir avec les témoins
 	aller chercher des objets dans la salle (équipes par table)
 
 ## Baby-sitter:
-2-3 Serbes
-1 francophone
+	2-3 Serbes
+	1 francophone
 
 
 
