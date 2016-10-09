@@ -55,3 +55,10 @@ Samedi 11h entre mi-janvier et le 8 février
 ### Alliances:
 	Simples (L)
 	Quand: civil (P), égal (L)
+	
+### Photos:
+	Lea Kloos http://leakloos.com/ (organisation gérée par Véronique)
+	
+### Budget:
+	Qui va payer: nous
+	Si des gens veulent nous soutenir financièrement, ils peuvent le faire sur notre compte commun
