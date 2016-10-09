@@ -156,12 +156,19 @@
 	
 	
 ## Boissons:
-	Champagne à amener nous-même
-	Jus faits maison
+	Champagne à amener nous-même:
+	Drapier chez Auchan ou www.caves-direct.com (25 euros la bouteille), 24 bouteilles = 168 verres
+	Jus faits maison dans un jar
 	
 
-## Gâteau:
-	Un truc ni moche ni mauvais
+## Desserts:
+	Table de différents desserts:
+		Cupcakes
+		Sucettes
+		Tartelettes
+	Gâteau de mariage:
+		Un truc pas trop moche
+		www.magic-cake.com
 
 ## Animations:
 	Beamer
