@@ -169,7 +169,7 @@
 		Tartelettes
 	Gâteau de mariage:
 		Un truc pas trop moche
-		Drôle, non-conventionnel (
+		Drôle, non-conventionnel (https://s-media-cache-ak0.pinimg.com/originals/c2/e8/21/c2e8217a6bb19eee6ecdc28fb57955a1.jpg)
 		www.magic-cake.com
 
 ## Animations:
