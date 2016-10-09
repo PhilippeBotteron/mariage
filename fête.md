@@ -1,19 +1,19 @@
 # Fête de mariage:
 
 ## Dates:
-	Samedi
+### Samedi
 	29 juillet
 	12 août
 	19 août
 	
 ## Save the date + invitation:
-	Envoyer avant fin octobre
+	Envoyer avant fin octobre  VALIDE
 	
 ## Dead-line confirmation des invités:
-	Avril ou mai
+	Avril ou mai VALIDE
 	
 ## Site web:
-	Mise en ligne avant mi-décembre
+	Mise en ligne avant mi-décembre VALIDE
 	
 
 ## Lieu:
@@ -90,7 +90,8 @@
 			Ariane Testuz
 			Nikos +1
 			Bob +1
-			(71)
+			Sacha Novi Sad +1
+			(73)
 			
 			
 	
@@ -112,7 +113,8 @@
 		Vuk
 		Nina + Milo
 		Altaïr + Lyra
-		(22)
+		jumeaux Sacha Novi Sad
+		(24)
 
 ## Pré-fête:
 	Strand
@@ -122,7 +124,8 @@
 	Trubaci
 	Orchestre
 	Playlist
-
+	VALIDE
+	
 ## Photos:
 	Photographe Serbe
 	Kin Flash Studio https://www.facebook.com/KinFlashStudio/ Call +381 63 580854
