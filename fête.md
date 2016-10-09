@@ -111,7 +111,8 @@
 		1e de Catherine S
 		Vuk
 		Nina + Milo
-		(20)
+		Altaïr + Lyra
+		(22)
 
 ## Pré-fête:
 	Strand
@@ -168,6 +169,7 @@
 		Tartelettes
 	Gâteau de mariage:
 		Un truc pas trop moche
+		Drôle, non-conventionnel (
 		www.magic-cake.com
 
 ## Animations:
