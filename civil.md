@@ -48,7 +48,7 @@ Samedi 11h ou 11h30 entre janvier et début février
 ### Préparation au mariage:
 	Documents:
 	- formulaire de demande en vue du mariage (disponible ci-dessous);
-	- certificat individuel d'état civil;
+	- certificat individuel d'état civil; A DEMANDER
 	- attestation de domicile (si domicile hors du canton);
 	- passeport ou carte d'identité. 
 	http://www.ville-geneve.ch/demarches-administratives/vie-privee-egalite-citoyennete/procedure-preparatoire-mariage/
@@ -60,9 +60,9 @@ Samedi 11h ou 11h30 entre janvier et début février
 	Fr. 30.– l'acte de mariage.
 
 ### Alliances:
-	Simples (L)
+	Simples (L+P)
 	Quand: civil (P), égal (L)
-#### Or équitable
+
 - Suisse: En Suisse, les premières collections de bijoux en or issu du commerce équitable sont en vente chez Coop City et Christ Montres & Bijoux.
 - France: 
 	- Paulette à bicyclette http://paulette-a-bicyclette.com/
@@ -72,9 +72,9 @@ Samedi 11h ou 11h30 entre janvier et début février
 	- cbijoux http://www.cbijoux.com/bijoux/alliances-en-et-ceramique/
 
 ### Photos:
-	Lea Kloos http://leakloos.com/ (organisation gérée par Véronique)
+	Lea Kloos http://leakloos.com/ (organisation gérée par Véronique) VALIDE
 	
 ### Budget:
-	Qui va payer: nous
+	Qui va payer: nous VALIDE
 	Si des gens veulent nous soutenir financièrement, ils peuvent le faire sur notre compte commun
 
